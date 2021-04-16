@@ -1,0 +1,37 @@
+h1{
+    color: blue;
+    text-align: center;
+}
+.num1{
+    padding: 6px 30px;
+    margin-left: 150px;
+}
+.num2{
+    padding: 6px 30px;
+    margin-left: 10px;
+}
+button{
+    border: none;
+    padding: 3px 12px;
+    margin-right: 10px;
+}
+.addbtn{
+    background-color: red;
+    color: white;
+    margin-left: 275px;
+    border-radius: 6px;
+}
+.mulbtn{
+    background-color: blue;
+    color: white;
+    border-radius: 6px;
+}
+.subbtn{
+    background-color: #444;
+    color: white;
+    border-radius: 6px;
+}
+#output{
+    font-size: 30px;
+    text-align: center;
+}
